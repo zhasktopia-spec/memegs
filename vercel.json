@@ -2,7 +2,7 @@
   "rewrites": [
     {
       "source": "/laserpiwpiw",
-      "destination": "/api/laserpiwpiw.lua"
+      "destination": "/api/raw.lua"
     }
   ],
   "headers": [
