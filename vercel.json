@@ -1,8 +1,8 @@
 {
   "rewrites": [
     {
-      "source": "/laserpiwpiw",
-      "destination": "/api/rawrr.lua"
+      "source": "/rawrr.lua",
+      "destination": "/api/laserpiwpiw"
     }
   ],
   "headers": [
