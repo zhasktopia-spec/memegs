@@ -1,7 +1,7 @@
 {
   "rewrites": [
     {
-      "source": "/rawrr",
+      "source": "/laserpiwpiw",
       "destination": "/api/rawrr.lua"
     }
   ],
