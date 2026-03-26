@@ -1,2 +1,2 @@
 # memegs
-!(https://komarev.com/ghpvc/?username=zhasktopia-spec&label=VIEWS&color=blueviolet)
+![Views](https://komarev.com/ghpvc/?username=zhasktopia-spec&label=VIEWS&color=blueviolet)
