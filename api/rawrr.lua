@@ -1,1 +1,1 @@
-loadstring(game:HttpGet("https://cekelipmpanhub.vercel.app/sekerip.lua"))()
+loadstring(game:HttpGet("https://lujombloyak.vercel.app/ancuar.lua"))()
